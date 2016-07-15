@@ -59,7 +59,7 @@
         <p>©2016 Shah SM. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.</p>
         
         <h4>Citation</h4>
-        <p>Shah SM, Saini N, Manik R, Palta P, Singla SK, et al.  (2016). Spontaneous differentiation of buffalo (Bubalus bubalis) embryonic stem cells towards germ cell lineage. J Stem Cell Res Med 1: doi: 10.15761/JSCRM.1000103</p>
+        <p>Shah SM, Saini N, Manik R, Palta P, Singla SK, et al. (2016). Spontaneous differentiation of buffalo (Bubalus bubalis) embryonic stem cells towards germ cell lineage. J Stem Cell Res Med 1: doi: 10.15761/JSCRM.1000103</p>
       </div>
     </div>
     <div class="large-4 columns">
