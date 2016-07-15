@@ -11,7 +11,7 @@
 <link rel="stylesheet" href="css/custom.css" />
 <script src="js/vendor/modernizr.js"></script>
 </head>
-<body>
+<body style="">
 <?php include("header.php"); ?>
 <!--banner -->
 <div class="inner-banner">
